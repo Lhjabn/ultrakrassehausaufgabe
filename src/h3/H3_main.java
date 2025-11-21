@@ -36,7 +36,7 @@ public class H3_main {
         int input = 0;
         int i = 0;
         int z = 1;
-        int finput = 532491;
+        int finput = input;
         while(finput>0) {
             while (einheiten[0][i]<=finput) {
                 einheiten[1][i] = z;
